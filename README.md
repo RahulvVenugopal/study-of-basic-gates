@@ -75,12 +75,13 @@ Y= A⊕B
 
 **RTL realization Output:** 
 
-![Screenshot 2025-03-17 114708](https://github.com/user-attachments/assets/7e59b940-f909-479a-a00a-98d98a23af6e)
+![Screenshot 2025-03-17 114440](https://github.com/user-attachments/assets/2e985fdb-750a-4e42-a83e-7fe4a45bb95c)
+
 
 
 **RTL:**
 
- ![image](https://github.com/user-attachments/assets/94616d82-87ec-45f5-a4a4-be0e9a351175)
+ ![Screenshot 2025-03-17 114427](https://github.com/user-attachments/assets/2d3a7bd3-49fd-4c59-9f64-254d982562f0)
 
 
 **Result:**
