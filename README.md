@@ -65,7 +65,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-![Screenshot 2025-03-17 114655](https://github.com/user-attachments/assets/e0c88f4c-c684-4302-a02f-5e9228eac3dc)
+![Screenshot 2025-03-17 114652](https://github.com/user-attachments/assets/a4794958-a9e0-4fe2-af92-7bb23271526d)
 
  
 **Logic symbol & Truthtable:**
